@@ -14,7 +14,7 @@
 ### Oh My Zsh
 
 ```bash
-git clone https://github.com/<your-user>/makepkg-completion \
+git clone https://github.com/mejistus/makepkg-completion \
   ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/makepkg-completion
 ```
 
